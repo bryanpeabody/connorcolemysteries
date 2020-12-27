@@ -1,11 +1,11 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
+baseurl = "/"
 title = "Connor Cole Mysteries"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "" # Ex: UA-123-45
+googleAnalytics = "G-Q2BETF5N72"
 # disable language
 disableLanguages = [] # disable language from here
 
