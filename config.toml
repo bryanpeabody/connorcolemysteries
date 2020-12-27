@@ -1,0 +1,126 @@
+################################### Default Configuration ############################
+baseurl = "http://examplesite.com/"
+title = "Connor Cole Mysteries"
+theme = "vex-hugo"
+# post excert
+summarylength = "20"
+# google analytics
+googleAnalytics = "" # Ex: UA-123-45
+# disable language
+disableLanguages = [] # disable language from here
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+#################################### Plugins ##########################################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+[[params.plugins.css]]
+link = ""
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = ""
+
+
+###################################### Navigation ######################################
+
+# homepage section menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+#[[menu.main]]
+#name = "Products"
+#url = "products"
+#weight = 2
+
+#[[menu.main]]
+#name = "Blog"
+#url = "blog"
+#weight = 3
+
+#[[menu.main]]
+#name = "Reviews"
+#pre = "#"
+#url = "testimonial"
+#weight = 4
+
+#[[menu.main]]
+#name = "Contact"
+#url = "contact"
+#weight = 5
+
+# footer menu
+#[[menu.footer]]
+#name = "Blog"
+#url = "blog"
+#weight = 1
+
+#[[menu.footer]]
+#name = "Contact"
+#url = "contact"
+#weight = 2
+
+#[[menu.footer]]
+#name = "Terms & Conditions"
+#url = "terms-conditions"
+#weight = 3
+
+#[[menu.footer]]
+#name = "Privacy Policy"
+#url = "privacy-policy"
+#weight = 4
+
+
+########################### Default parameters ##########################
+[params]
+logo = "images/logo.png"
+logo_width = "250px"
+# Meta data
+description = "Connor Cole Mysteries"
+author = "Bryan Peabody"
+# currency
+currency = "$"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# snipcart public api key
+snipcart_api = ""
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# Subscription
+[params.subscription]
+# mailchimp subsciption
+mailchimp_form_action = "https://bryanpeabody.us4.list-manage.com/subscribe/post?u=795b81c4e2e91cb492789295e&amp;id=ab5bf2b0cb"
+mailchimp_form_name = "b_795b81c4e2e91cb492789295e_ab5bf2b0cb"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+# copyright
+copyright = "&copy; 2020, Connor Cole Mysteries"
+
