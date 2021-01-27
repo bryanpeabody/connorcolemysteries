@@ -1,16 +1,18 @@
-- name: FTP Deploy  
-uses: SamKirkland/FTP-Deploy-Action@4.0.0
-with:
-  server: ftp.fastmail.com    
-  username: bryanpeabody@fastmail.com    
-  password: drezhuncf9kc47zd    
-  port:
-  protocol:
-  local-dir: /public/    
-  server-dir: /bryanpeabody.fastmail.com/files/public/www.connorcolemysteries.com/    
-  state-name:
-  dry-run:
-  dangerous-clean-slate:
-  exclude:
-  log-level:
-  security:
+on: push
+name: 🚀 Deploy website on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v2.3.2
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      with:
+        server: ftp.fastmail.com
+        username: bryanpeabody@fastmail.com
+        password: ${{ secrets.ftp_password }}
+        local-dir: /public/    
+        server-dir: /bryanpeabody.fastmail.com/files/public/www.connorcolemysteries.com/
