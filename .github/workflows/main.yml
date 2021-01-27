@@ -1,6 +1,6 @@
-- name: FTP Deploy  
-  uses: SamKirkland/FTP-Deploy-Action@4.0.0
-  with:    
+name: FTP Deploy  
+uses: SamKirkland/FTP-Deploy-Action@4.0.0
+  with:
     server: ftp.fastmail.com    
     username: bryanpeabody@fastmail.com    
     password: drezhuncf9kc47zd    
