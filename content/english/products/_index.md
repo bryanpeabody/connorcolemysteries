@@ -1,6 +1,6 @@
 ---
-title: "All latest Smart Watch"
-description : "this is a meta description"
+title: "Connor Cole Books"
+description : "All published Connor Cole Mysteries"
 draft: false
 ---
 

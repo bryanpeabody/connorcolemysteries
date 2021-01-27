@@ -5,7 +5,7 @@ theme = "vex-hugo"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "G-Q2BETF5N72"
+#googleAnalytics = "G-Q2BETF5N72"
 # disable language
 disableLanguages = [] # disable language from here
 
@@ -46,26 +46,26 @@ name = "Home"
 url = "/"
 weight = 1
 
-#[[menu.main]]
-#name = "Products"
-#url = "products"
-#weight = 2
+[[menu.main]]
+name = "Products"
+url = "products"
+weight = 2
 
-#[[menu.main]]
-#name = "Blog"
-#url = "blog"
-#weight = 3
+[[menu.main]]
+name = "Blog"
+url = "blog"
+weight = 3
 
-#[[menu.main]]
-#name = "Reviews"
-#pre = "#"
-#url = "testimonial"
-#weight = 4
+[[menu.main]]
+name = "Reviews"
+pre = "#"
+url = "testimonial"
+weight = 4
 
-#[[menu.main]]
-#name = "Contact"
-#url = "contact"
-#weight = 5
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
 
 # footer menu
 #[[menu.footer]]
@@ -99,7 +99,7 @@ author = "Bryan Peabody"
 # currency
 currency = "$"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/myybbbzj"
 # snipcart public api key
 snipcart_api = ""
 

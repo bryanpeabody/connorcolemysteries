@@ -1,14 +1,14 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Murder in Magic City"
-  content : "Connor Cole spent years running his company in corporate America before everything came crashing down. After moving to Miami to escape his old life, Connor starts working as a private investigator and taking the occasional consulting gig for the FBI with his on again, off again, girlfriend Sofia.
+  title : "LATEST RELEASE"
+  content : "<h3><strong>Murder in Magic City</strong></h3> <p></p> <p>Connor Cole spent years running his company in corporate America before everything came crashing down. After moving to Miami to escape his old life, Connor starts working as a private investigator and taking the occasional consulting gig for the FBI with his on again, off again, girlfriend Sofia.</p><p>When FBI Special Agent Matthew Banks tells Connor that he would like him to look into a break-in at his friends' company in downtown Miami, Connor gets much more than he bargained for including a dead body and accused of murder.</p><p>Will Connor be able to figure out who is behind it and why, before it's too late?</p>
 "
   image : "images/Ebook.png"
   button:
    enable : true
    label : "See more!"
-   link : "products"
+   link : "/products/murder-in-magic-city/"
 
 ############################# Feature ############################
 features:
@@ -56,11 +56,8 @@ features:
 promo:
   enable : false
   image : "images/watch.png"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  title : ""
+  content : ""
 
 
 ############################# About Product #######################
