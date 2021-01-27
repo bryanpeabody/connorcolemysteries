@@ -1,16 +1,16 @@
-name: FTP Deploy  
+- name: FTP Deploy  
 uses: SamKirkland/FTP-Deploy-Action@4.0.0
-  with:
-    server: ftp.fastmail.com    
-    username: bryanpeabody@fastmail.com    
-    password: drezhuncf9kc47zd    
-    port:
-    protocol:
-    local-dir: /public/    
-    server-dir: /bryanpeabody.fastmail.com/files/public/www.connorcolemysteries.com/    
-    state-name:
-    dry-run:
-    dangerous-clean-slate:
-    exclude:
-    log-level:
-    security:
+with:
+  server: ftp.fastmail.com    
+  username: bryanpeabody@fastmail.com    
+  password: drezhuncf9kc47zd    
+  port:
+  protocol:
+  local-dir: /public/    
+  server-dir: /bryanpeabody.fastmail.com/files/public/www.connorcolemysteries.com/    
+  state-name:
+  dry-run:
+  dangerous-clean-slate:
+  exclude:
+  log-level:
+  security:
