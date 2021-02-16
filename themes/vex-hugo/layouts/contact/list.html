@@ -6,7 +6,8 @@
       {{ with .Params.office }}
       <div class="col-lg-5 col-sm-6 mb-5">
         <h2 class="font-weight-bold mb-4">{{ .title | markdownify }}</h2>
-        <p>{{ .content | markdownify }}</p>        
+        <p>{{ .content | markdownify }}</p> 
+		<p>You can also reach me on <a href="https://www.twitter.com/bryanpeabody" target="_whole">Twitter</a> or <a href="https://www.instagram.com/bryan.peabody" target="_whole">Instagram</a>.
       </div>
       {{ end }}
       <div class="col-lg-3 col-sm-6 mb-5">
@@ -17,7 +18,7 @@
           <li class="mb-2">{{ . | markdownify }}</li>
           {{ end }}
         </ul>
-        {{ end }}
+        {{ end }}		
       </div>
     </div>
     <div class="row justify-content-center">
