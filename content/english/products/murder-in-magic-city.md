@@ -24,4 +24,5 @@ When FBI Special Agent Matthew Banks tells Connor that he would like him to look
 
 Will Connor be able to figure out who is behind it and why, before it's too late?
 
-<a href="https://www.amazon.com/dp/B07D66BQXR">Buy on Amazon!</a>
+<a href="https://www.amazon.com/dp/B07D66BQXR" target="_whole"><img src="/images/amazon-books-badges/amazon-books.png" width="115"></a>
+<a href="https://books.apple.com/us/book/murder-in-magic-city/id1553957926?itsct=books_toolbox&itscg=30200&ct=books_murder_in_magic_city&ls=1" target="_whole"><img src="/images/apple-books-badges/apple-books.svg"></a>

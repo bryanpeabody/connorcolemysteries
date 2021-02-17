@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Latest Post on Connor Cole Mysteries</title>
+    <title>Latest Posts on Connor Cole Mysteries</title>
     <link>/blog/</link>
-    <description>Recent content in Our Latest Post on Connor Cole Mysteries</description>
+    <description>Recent content in Latest Posts on Connor Cole Mysteries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020, Connor Cole Mysteries</copyright>
-    <lastBuildDate>Mon, 18 Jun 2018 11:22:16 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 11:22:16 +0600</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Murder in Magic City is now available on Apple Books!</title>
+      <link>/blog/murder-in-magic-city-now-on-apple-books/</link>
+      <pubDate>Wed, 17 Feb 2021 11:22:16 +0600</pubDate>
+      
+      <guid>/blog/murder-in-magic-city-now-on-apple-books/</guid>
+      <description>I&amp;rsquo;m happy to announce that readers now have another option to buy Connor Cole Mysteries from. Starting today, my books are availble to purchase on Apple Books!</description>
+    </item>
     
     <item>
       <title>Murder in Magic City is now available!</title>

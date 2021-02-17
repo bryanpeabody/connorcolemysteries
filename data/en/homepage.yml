@@ -14,7 +14,7 @@ banner:
 features:
   enable : false
   title : "Our Core Features"
-  image : "images/watch-2.png"
+  image : ""
 
   # feature at the left of the image
   left_side:
@@ -55,7 +55,7 @@ features:
 ############################# promo ############################
 promo:
   enable : false
-  image : "images/watch.png"
+  image : ""
   title : ""
   content : ""
 
@@ -66,7 +66,7 @@ about_product:
   title : "Why Choose Apple Watch"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
+    - image : ""
       title : "Lorem ipsum dolor sit amet."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
@@ -77,7 +77,7 @@ about_product:
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/showcase-3.png"
+    - image : ""
       title : "Lorem ipsum dolor sit amet."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
