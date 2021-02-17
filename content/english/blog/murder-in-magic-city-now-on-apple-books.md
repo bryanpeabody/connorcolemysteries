@@ -6,7 +6,7 @@ description : ""
 draft: false
 ---
 
-I'm happy to announce that readers now have another option to buy Connor Cole Mysteries from. Starting today, my books are availble to purchase on Apple Books!
+I'm happy to announce that Connor Cole fans will now have another online option to buy from. Starting today, my books are availble to purchase on Apple Books!
 
 Click on the Apple Books image below to be taken to the book page:
 

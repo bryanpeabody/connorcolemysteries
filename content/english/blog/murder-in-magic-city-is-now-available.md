@@ -6,6 +6,6 @@ description : ""
 draft: false
 ---
 
-After 9 months of research, planning and writing, I'm very happy to announce that "Murder in Magic City" is now available!
+I'm very happy to announce that after 9 months of research, planning and writing, my debut novel, "Murder in Magic City", is now available!
 
 Get your copy today on [Amazon](https://www.amazon.com/dp/B07D66BQXR)!
