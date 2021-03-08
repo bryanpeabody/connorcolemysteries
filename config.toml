@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "/"
-title = "Connor Cole Mysteries"
+title = "Bryan Peabody | Connor Cole Mysteries"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
@@ -44,33 +44,32 @@ link = ""
 [[menu.main]]
 name = "Home"
 url = "/"
-weight = 1
+weight = 10
 
 [[menu.main]]
-name = "Products"
-url = "products"
-weight = 2
+name = "Books"
+url = "/products"
+weight = 20
 
 [[menu.main]]
 name = "Blog"
 url = "blog"
-weight = 3
+weight = 30
 
 [[menu.main]]
-name = "Reviews"
-pre = "#"
-url = "testimonial"
-weight = 4
+name = "Newsletter"
+url = "newsletter"
+weight = 40
 
 [[menu.main]]
 name = "About"
 url = "about"
-weight = 5
+weight = 50
 
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 5
+weight = 60
 
 # footer menu
 #[[menu.footer]]
