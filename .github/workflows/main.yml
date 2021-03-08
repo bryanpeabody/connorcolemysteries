@@ -15,4 +15,4 @@ jobs:
         username: bryanpeabody@fastmail.com
         password: ${{ secrets.ftp_password }}
         local-dir: ./public/
-        server-dir: /bryanpeabody.fastmail.com/files/public/www.connorcolemysteries.com/
+        server-dir: /bryanpeabody.fastmail.com/files/public/www.bryanpeabody.com/
