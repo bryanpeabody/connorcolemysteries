@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "/"
-title = "Bryan Peabody | Connor Cole Mysteries"
+title = "Bryan Peabody | Author"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
