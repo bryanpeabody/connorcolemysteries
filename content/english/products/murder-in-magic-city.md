@@ -1,5 +1,7 @@
 ---
 title: "Murder in Magic City"
+subtitle: "Carribean Mystery Series"
+book: "1"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/Ebook.png"
@@ -9,7 +11,7 @@ description : "Murder in Magic City"
 
 # product Price
 price: "2.99 - 9.99"
-#discount_price: "25.00"
+#discount_price: "0.99"
 
 # product variation
 formats: ["Paperback","e-book"]

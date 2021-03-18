@@ -2,8 +2,7 @@
 banner:
   enable : true
   title : "LATEST RELEASE"
-  content : "<h3><strong>Murder in Magic City</strong></h3> <p></p> <p>Connor Cole spent years running his company in corporate America before everything came crashing down. After moving to Miami to escape his old life, Connor starts working as a private investigator and taking the occasional consulting gig for the FBI with his on again, off again, girlfriend Sofia.</p><p>When FBI Special Agent Matthew Banks tells Connor that he would like him to look into a break-in at his friends' company in downtown Miami, Connor gets much more than he bargained for including a dead body and accused of murder.</p><p>Will Connor be able to figure out who is behind it and why, before it's too late?</p>
-"
+  content : "<h3><strong>Murder in Magic City</strong></h3> <p></p> <p>Connor Cole spent years running his company in corporate America before everything came crashing down. After moving to Miami to escape his old life, Connor starts working as a private investigator and taking the occasional consulting gig for the FBI with his on again, off again, girlfriend Sofia.</p><p>When FBI Special Agent Matthew Banks tells Connor that he would like him to look into a break-in at his friends' company in downtown Miami, Connor gets much more than he bargained for including a dead body and accused of murder.</p><p>Will Connor be able to figure out who is behind it and why, before it's too late?</p>"
   image : "images/Ebook.png"
   button:
    enable : true
@@ -93,7 +92,7 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/call-to-action.jpg"
+  #bg_image : "images/call-to-action.jpg"
   title : "Join the mailing list!"
   content : "Stay up to date on news and new releases."
   placeholder : "Your Email Address Here"

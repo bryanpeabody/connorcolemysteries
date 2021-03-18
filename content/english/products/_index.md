@@ -1,6 +1,6 @@
 ---
-title: "Connor Cole Books"
-description : "All published Connor Cole Mysteries"
+title: "Carribean Mystery Series"
+description : "Carribean Mystery Series"
 draft: false
 ---
 

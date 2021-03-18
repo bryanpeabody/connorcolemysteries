@@ -3,7 +3,7 @@ $(window).on('load', function () {
   $('.preloader').fadeOut(100);
 });
 
-(function ($) {
+/*(function ($) {
   'use strict';
 
   
@@ -49,3 +49,4 @@ $(window).on('load', function () {
   });
 
 })(jQuery);
+*/
