@@ -7,7 +7,7 @@ office:
   #mobile : "0124857985320"
   #email : "demo@email.com"
   #location : "Dhaka, Bangladedsh"
-  content : "Got a question or comment you'd like to share? This is the place! I normally response within 48 hours but occasionally life does get busy."
+  content : "Got a question or comment you'd like to share? This is the place! I normally respond within 48 hours but occasionally life does get busy."
 
 # opennig hour
 #opennig_hour:
