@@ -26,4 +26,4 @@ When FBI Special Agent Matthew Banks tells Connor that he would like him to look
 Will Connor be able to figure out who is behind it and why, before it's too late?
 
 <!--- Amazon -->
-<a href="https://amzn.to/2Q9LZ6S" target="_blank"><img src="/images/amazon-books-badges/amazon-books.png" width="115"></a><a href="https://www.goodreads.com/book/show/53225352-murder-in-magic-city" target="_blank"><img src="/images/goodreads/add-to-goodreads.png" width="130"></a>
+<a href="https://www.amazon.com/Murder-Magic-City-Connor-Mystery-ebook/dp/B07D66BQXR" target="_blank"><img src="/images/amazon-books-badges/amazon-books.png" width="115"></a><a href="https://www.goodreads.com/book/show/53225352-murder-in-magic-city" target="_blank"><img src="/images/goodreads/add-to-goodreads.png" width="130"></a>
