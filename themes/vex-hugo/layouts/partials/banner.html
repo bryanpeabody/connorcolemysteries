@@ -4,7 +4,7 @@
 {{- with $data.homepage.banner }}
 <!-- hero area -->
 <section class="section">
-	<div class="container">
+	<div class="container">		
 		<div class="row">
 			<div class="col-md-6 text-center mb-5 mb-md-0">
 				<img class="img-fluid" src="{{ .image | absURL }}" alt="">
@@ -16,6 +16,23 @@
 					{{ if .button.enable }}
 					{{ with .button }}
 					<a href="{{.link|absLangURL}}" class="btn btn-main">{{.label}}</a>
+					{{ end }}
+					{{ end }}
+				</div>
+			</div>
+		</div><!-- .row close -->
+		<br />
+		<div class="row">
+			<div class="col-md-6 text-center mb-5 mb-md-0">
+				<img class="img-fluid" src="{{ .image2 | absURL }}" alt="">
+			</div>
+			<div class="col-md-6 align-self-center text-center text-md-left">
+				<div class="block">
+					<h1 class="font-weight-bold mb-4 font-size-60">{{ .title2 | markdownify }}</h1>
+					<p class="mb-4">{{ .content2 | markdownify }}</p>
+					{{ if .button2.enable }}
+					{{ with .button }}
+					<a href="{{.link2|absLangURL}}" class="btn btn-main">{{.label2}}</a>
 					{{ end }}
 					{{ end }}
 				</div>
