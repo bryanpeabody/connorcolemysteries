@@ -25,4 +25,4 @@ When Connor investigates the disappearance, he learns that the missing boyfriend
 
 Can Connor find the missing treasure hunter alive, solve the mystery of a long-lost treasure along the way and survive the earth-shattering surprises that the investigation reveals?
 
-<h1><b>Coming soon!</b></h1>
+<h1><b>Coming this summer!</b></h1>

@@ -11,7 +11,7 @@ description : "Murder in Magic City"
 
 # product Price
 price: "2.99 - 9.99"
-discount_price: "0.99"
+#discount_price: "0.99"
 
 # product variation
 formats: ["Paperback","e-book"]
