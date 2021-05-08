@@ -24,6 +24,7 @@ Connor Cole spent years running his company in corporate America before everythi
 When FBI Special Agent Matthew Banks tells Connor that he would like him to look into a break-in at his friends' company in downtown Miami, Connor gets much more than he bargained for including a dead body and accused of murder. 
 
 Will Connor be able to figure out who is behind it and why, before it's too late?
-
+<p>
 <!--- Amazon -->
-<a href="https://www.amazon.com/Murder-Magic-City-Connor-Mystery-ebook/dp/B07D66BQXR" target="_blank"><img src="/images/amazon-books-badges/amazon-books.png" width="115"></a><a href="https://www.goodreads.com/book/show/53225352-murder-in-magic-city" target="_blank"><img src="/images/goodreads/add-to-goodreads.png" width="130"></a>
+<a href="https://www.amazon.com/Murder-Magic-City-Connor-Mystery-ebook/dp/B07D66BQXR" target="_blank"><img src="/images/amazon-books-badges/amazon-books.png" width="150"></a><a href="https://www.goodreads.com/book/show/53225352-murder-in-magic-city" target="_blank"><img src="/images/goodreads/add-to-goodreads.png" width="170"></a>
+</p>

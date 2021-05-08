@@ -1,7 +1,7 @@
 ---
 title: "Murder in Magic City is now available!"
 date: 2018-06-18T11:22:16+06:00
-image: "images/Ebook.png"
+#image: "images/Ebook.png"
 description : ""
 draft: false
 ---

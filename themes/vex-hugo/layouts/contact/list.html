@@ -2,12 +2,14 @@
 
 <section class="section">
   <div class="container">
-    <div class="row justify-content-center">
+    <div class="row justify-content-left">
       {{ with .Params.office }}
-      <div class="col-lg-5 col-sm-6 mb-5">
+      <div class="col-lg-8 col-sm-6 mb-5">
         <h2 class="font-weight-bold mb-4">{{ .title | markdownify }}</h2>
-        <p>{{ .content | markdownify }}</p> 
-		<p>You can also reach me on <a href="https://www.twitter.com/bryanpeabody" target="_blank">Twitter</a> or <a href="https://www.instagram.com/bryan.peabody" target="_blank">Instagram</a>.
+        <div class="content">
+          <p>{{ .content | markdownify }}</p>
+		      <p>You can also reach me on <a href="https://www.twitter.com/bryanpeabody" target="_blank">Twitter</a> or <a href="https://www.instagram.com/bryan.peabody" target="_blank">Instagram</a>.
+        </div>
       </div>
       {{ end }}
       <div class="col-lg-3 col-sm-6 mb-5">
@@ -21,7 +23,7 @@
         {{ end }}		
       </div>
     </div>
-    <div class="row justify-content-center">
+    <div class="row justify-content-left">
       <div class="col-lg-8">
         <h2 class="font-weight-bold mb-4">{{ .Title | markdownify }}</h2>
         <form action="{{ site.Params.contact_form_action }}" method="POST" class="row">
